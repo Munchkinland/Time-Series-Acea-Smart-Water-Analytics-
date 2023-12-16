@@ -73,7 +73,3 @@ Contributions to this project are welcome. Please open an issue or a pull reques
 This project is licensed under the MIT License - see the LICENSE file for details. 📝
 Contributions to this project are welcome. Please open an issue or a pull request for any bugs, features, or enhancements.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
