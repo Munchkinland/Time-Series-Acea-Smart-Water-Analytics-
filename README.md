@@ -1,6 +1,4 @@
-# 📚 README for GitHub Repository
-
-🚀 Time-Series-Acea-Smart-Water-Analytics Project
+# 📚 Time-Series-Acea-Smart-Water-Analytics Project
 
 ![DALL·E 2023-12-16 15 59 05 - An inspiring image for a time series and water analytics project, designed in a Pixar-style animation  The scene depicts a lively, animated environmen](https://github.com/Munchkinland/Time-Series-Acea-Smart-Water-Analytics-/assets/92251234/93109375-164a-4c1e-8f22-b43f4bb06cd4)
 
